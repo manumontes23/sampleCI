@@ -6,6 +6,6 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
 
-hello darkness my old friend
+router.allget();
 
 module.exports = router;
