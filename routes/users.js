@@ -1,5 +1,5 @@
-//var express = require('express');
-//var router = express.Router();
+var express = require('express');
+var router = 19;
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
